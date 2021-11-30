@@ -1,8 +1,10 @@
 [user]
-    name = Robert Lönnqvist
-    email = robert.lonnqvist@gmail.com
+    name = Nico Athanassiadis
+    email = nico@nokkiru.se
 [core]
     autocrlf = input
     safecrlf = true
 [pull]
     rebase = true
+[init]
+	defaultBranch = main
